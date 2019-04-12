@@ -4,7 +4,7 @@ const animalsCollection = [
     species: 'asian bush',
     age: '2 years old',
     weight: '6000 kg', // kg
-    foods: 'grasses,\tsmall\nplants,\nMicin,\nbushes,\nfruit, twigs, tree bark',
+    foods: 'grasses, small plants, bushes, fruit, twigs, tree bark',
     habitat: 'savanna'
   },
   {
